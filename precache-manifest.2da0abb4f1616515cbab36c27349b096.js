@@ -68,12 +68,12 @@ self.__precacheManifest = [
     "url": "/EL-BESS/static/media/square5.ff004a0e.png"
   },
   {
-    "revision": "6619b9792d7d108bb589b51bbd560278",
-    "url": "/EL-BESS/static/media/square2.6619b979.png"
-  },
-  {
     "revision": "ca25707397fcc982d7dc1f82555f09a0",
     "url": "/EL-BESS/static/media/square1.ca257073.png"
+  },
+  {
+    "revision": "6619b9792d7d108bb589b51bbd560278",
+    "url": "/EL-BESS/static/media/square2.6619b979.png"
   },
   {
     "revision": "23fa76237f0066f4ffd8f20e77449887",
